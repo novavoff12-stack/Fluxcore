@@ -1,6 +1,6 @@
 ﻿>[!IMPORTANT]
 >[!IMPORTANT]
->**Work-in-progress** - Fluxcore is a branded fork of Firefli. Documentation is being migrated; for now, see this repository and the upstream project docs. Expect bugs in this beta. Please report issues via GitHub.
+>**Work-in-progress** - Fluxcore is a branded fork of NovaTechy. Documentation is being migrated; for now, see this repository and the upstream project docs. Expect bugs in this beta. Please report issues via GitHub.
 
 >[!TIP]
 > Fluxcore is based on the Firefli platform (Orbit fork) and keeps the same core workflow with Fluxcore branding.
@@ -112,4 +112,5 @@
   Firefli is licensed under the <a href="./LICENSE">GNU General Public License v3.0.</a>
   <p>Consider supporting the project by buying the Developers a coffee https://buymeacoffee.com/teamfirefli.</p>
 </div>
+
 

@@ -11,7 +11,7 @@
 			<token name="RunContext">0</token>
 			<string name="ScriptGuid">{57280D02-3DDB-4992-BA62-09F779557E92}</string>
 			<ProtectedString name="Source"><![CDATA[
--- Firefli Activity Tracking Module (BETA)
+-- Fluxcore Activity Tracking Module 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
@@ -45,7 +45,7 @@ local Configuration = {
 	url = "<url>",
 	auth = "<apikey>",
 	-- Edit to your liking
-	privateEnabled = false, -- Set to false if you do not want Fire to track private servers (or studio)
+	privateEnabled = false, -- Set to false if you do not want Fluxy to track private servers (or studio)
 	cooldownPeriod = 30, -- The interval (seconds) between retrying failed HTTP requests
 	rankChecking = false, -- Enables rank checking on player join/leave to ensure only relevant data is sent to Firefli (RECOMMENDED)
 	groupId = 0, -- The group ID to perform activity tracking for (RECOMMENDED)
@@ -3740,3 +3740,4 @@ return fastWait]]></ProtectedString>
 		</Item>
 	</Item>
 </roblox>
+
